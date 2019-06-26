@@ -1,4 +1,4 @@
-# For educational purpose dont do any wrong work sujal
+# For educational purpose dont do any wrong work sujal I will not be responsible anything bad u did
 
 This gem identifies valid tracking numbers and can tell you a little bit about the shipment just from the number—there's quite a bit of info tucked away into those numbers, it turns out.
 
@@ -129,5 +129,5 @@ end
 * Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
 * Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
 
-
+Credit goes to the Author
 
